@@ -21,7 +21,7 @@ Estoy en busca de oportunidades para aprender y colaborar en proyectos que me pe
 
 <div align="center">
   
-  <img src = "https://media.giphy.com/media/Hnkg7teSAliECgiAIX/giphy.gif?cid=ecf05e47t02om3odn0bfkwntbcv3tlpchmql0md3jcjrhq4d&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt = "Flowers" width="150" height="150">
+  <img src = "https://media.giphy.com/media/Hnkg7teSAliECgiAIX/giphy.gif?cid=ecf05e47t02om3odn0bfkwntbcv3tlpchmql0md3jcjrhq4d&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt = "Flowers" width="100" height="100">
 </div>
 
 ## 🎓 Educación
@@ -64,11 +64,11 @@ Estoy en busca de oportunidades para aprender y colaborar en proyectos que me pe
 *Enero 2022 | EC*  
 - Ganador de primer lugar en la categoría "Smart ID" – Optimización del sistema de alquiler de bicicletas de ESPOL utilizando Azure Facial Recognition.
 
+<div align="center">
+<img src = "https://media.giphy.com/media/L1yVLmsKdditvZJmuC/giphy.gif?cid=ecf05e47368uvoh6yza73010b6dl70a09t41dirnec4zj14g&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt = "Cute" width="150" height="150">
+</div>
 
 ## 💌 Contáctame!
-<div align="center">
-<img src = "https://media.giphy.com/media/IhfZAZc4wjrB7aZw71/giphy.gif?cid=ecf05e47pcpibqy3cv7v3buwtog3kiguw5bgtvfksyipf2q7&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt = "Cute" width="150" height="150">
-</div>
 
 <div align="center">
     <a href="www.linkedin.com/in/noelia-pasaca" target="_blank" style="text-decoration: none;">
@@ -77,4 +77,7 @@ Estoy en busca de oportunidades para aprender y colaborar en proyectos que me pe
     <a href="mailto:pasacanoelia@gmail.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge">
     </a>
+</div>
+<div align="center">
+<img src = "https://media.giphy.com/media/s7TgELFDKQRIL8P01x/giphy.gif?cid=ecf05e47dsbsxopk4blfqr227p7yv9inh539gaghqlyu2i3r&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt = "Cute" width="50" height="50">
 </div>
